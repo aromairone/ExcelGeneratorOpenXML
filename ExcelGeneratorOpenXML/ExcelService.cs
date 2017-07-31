@@ -32,7 +32,7 @@ namespace ExcelGeneratorOpenXML
 
                 Workbook workbook = new Workbook(); //Initiate workbook
 
-                Worksheet worksheet = new Worksheet(); //Initiate WorkSheet
+                Worksheet worksheet = new Worksheet(); //Initiate WorkSheet New Worksheet
 
                 SheetData sheetData = new SheetData(); //Initiate SheetData
 
